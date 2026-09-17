@@ -49,12 +49,5 @@ Created an interactive dashboard to analyze:
 - Subscription status
 - Purchasing frequency
 
-## Files
-- `python/` — data cleaning and transformation
-- `sql/` — SQL analysis queries
-- `powerbi/` — Power BI dashboard
-- `screenshots/` — dashboard previews
-
 ## Project Walkthrough
-
-[Loom video](YOUR_LOOM_LINK)
+https://drive.google.com/file/d/16BUa01elOhGD12F1cqDqSM02LnSJsqlU/view?usp=sharing
